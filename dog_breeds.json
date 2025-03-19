@@ -1,0 +1,2468 @@
+[
+    {
+        "name": "Affenpinscher",
+        "group": "186",
+        "alternative_name": "Affenpinscher",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Affenpinscher.jpg/100px-Affenpinscher.jpg"
+    },
+    {
+        "name": "Afghan Hound",
+        "group": "228",
+        "alternative_name": "Afghan Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Afghan_Hound.jpg/100px-Afghan_Hound.jpg"
+    },
+    {
+        "name": "Aidi",
+        "group": "247",
+        "alternative_name": "Aidi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aidi.jpg/100px-Aidi.jpg"
+    },
+    {
+        "name": "Airedale Terrier",
+        "group": "007",
+        "alternative_name": "Airedale Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Airedale_Terrier.jpg/120px-Airedale_Terrier.jpg"
+    },
+    {
+        "name": "Akita Inu",
+        "group": "255",
+        "alternative_name": "Akita",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Akita_inu.jpeg/100px-Akita_inu.jpeg"
+    },
+    {
+        "name": "Alapaha Blue Blood Bulldog",
+        "group": "",
+        "alternative_name": "Alapaha Blue Blood Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alapahabulldog.jpg/100px-Alapahabulldog.jpg"
+    },
+    {
+        "name": "Alaskan Husky",
+        "group": "",
+        "alternative_name": "Alaskan Husky",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Goose-Alaskan_Husky.jpg/100px-Goose-Alaskan_Husky.jpg"
+    },
+    {
+        "name": "Alaskan Klee Kai",
+        "group": "",
+        "alternative_name": "Alaskan Klee Kai",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Standard_Alaskan_Klee_Kai.jpg/100px-Standard_Alaskan_Klee_Kai.jpg"
+    },
+    {
+        "name": "Alaskan Malamute",
+        "group": "243",
+        "alternative_name": "Alaskan Malamute",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alaskanmalamute0b.jpg/100px-Alaskanmalamute0b.jpg"
+    },
+    {
+        "name": "Alpenländische Dachsbracke",
+        "group": "254",
+        "alternative_name": "Alpine Dachsbracke",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alpejski_go%C5%84czy_kr%C3%B3tkono%C5%BCny_g99.jpg/100px-Alpejski_go%C5%84czy_kr%C3%B3tkono%C5%BCny_g99.jpg"
+    },
+    {
+        "name": "Alsatian Shepalute",
+        "group": "",
+        "alternative_name": "American Alsatian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AlsatianShepalute.jpg/100px-AlsatianShepalute.jpg"
+    },
+    {
+        "name": "Altdeutscher Hütehund",
+        "group": "",
+        "alternative_name": "Old German herding dogs",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gelbbacke.jpg/100px-Gelbbacke.jpg"
+    },
+    {
+        "name": "American Akita",
+        "group": "344",
+        "alternative_name": "American Akita",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Great_japanese_dog00.jpg/100px-Great_japanese_dog00.jpg"
+    },
+    {
+        "name": "American Bulldog",
+        "group": "",
+        "alternative_name": "American Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BUCKEYE_2010_ANCHOR_BULLY_RASCALZ.jpg/100px-BUCKEYE_2010_ANCHOR_BULLY_RASCALZ.jpg"
+    },
+    {
+        "name": "American Bully",
+        "group": "",
+        "alternative_name": "American Bully",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/American_bully.jpg/100px-American_bully.jpg"
+    },
+    {
+        "name": "American Cocker Spaniel",
+        "group": "167",
+        "alternative_name": "American Cocker Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/AmericanCockerSpaniel_wb.jpg/100px-AmericanCockerSpaniel_wb.jpg"
+    },
+    {
+        "name": "American Eskimo Dog",
+        "group": "",
+        "alternative_name": "American Eskimo Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/American_Eskimo_Dog.jpg/100px-American_Eskimo_Dog.jpg"
+    },
+    {
+        "name": "American Foxhound",
+        "group": "303",
+        "alternative_name": "American foxhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/100px-AmericanFoxhound2.jpg"
+    },
+    {
+        "name": "American Hairless Terrier",
+        "group": "",
+        "alternative_name": "American Hairless Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TagnonPond9-6-03.jpg/100px-TagnonPond9-6-03.jpg"
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "group": "",
+        "alternative_name": "American Pit Bull Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pit_Bull_Red_Nose-Tyson.JPG/100px-Pit_Bull_Red_Nose-Tyson.JPG"
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "group": "286",
+        "alternative_name": "American Staffordshire Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amstaff_9_months_old_cropped_ears2.jpg/100px-Amstaff_9_months_old_cropped_ears2.jpg"
+    },
+    {
+        "name": "American Toy Terrier",
+        "group": "",
+        "alternative_name": "Toy Fox Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Americantoyterrier.jpg/100px-Americantoyterrier.jpg"
+    },
+    {
+        "name": "American Water Spaniel",
+        "group": "301",
+        "alternative_name": "American Water Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/American_water_spaniel_01.jpg/100px-American_water_spaniel_01.jpg"
+    },
+    {
+        "name": "Anatolian Greyhound",
+        "group": "",
+        "alternative_name": "Anatolian Greyhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Anatolianvintti1.jpg/100px-Anatolianvintti1.jpg"
+    },
+    {
+        "name": "Anglo-Francais De Petite Venerie",
+        "group": "325",
+        "alternative_name": "Medium-sized Anglo-French Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Anglo-Fran%C3%A7ais_de_petite_v%C3%A9nerie.jpg/100px-Anglo-Fran%C3%A7ais_de_petite_v%C3%A9nerie.jpg"
+    },
+    {
+        "name": "Anjing Kintamani",
+        "group": "362",
+        "alternative_name": "Kintamani",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kintamani.jpg/100px-Kintamani.jpg"
+    },
+    {
+        "name": "Appenzeller Sennenhund",
+        "group": "46",
+        "alternative_name": "Appenzeller Sennenhund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Appenz.jpg/100px-Appenz.jpg"
+    },
+    {
+        "name": "Ariégeois",
+        "group": "20",
+        "alternative_name": "Ariégeois",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ariegeois.jpg/100px-Ariegeois.jpg"
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "group": "287",
+        "alternative_name": "Australian Cattle Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Australian_Cattle_Dog_Naava.jpg/100px-Australian_Cattle_Dog_Naava.jpg"
+    },
+    {
+        "name": "Australian Kelpie",
+        "group": "293",
+        "alternative_name": "Australian Kelpie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Australien_Kelpie.jpg/100px-Australien_Kelpie.jpg"
+    },
+    {
+        "name": "Australian Shepherd",
+        "group": "342",
+        "alternative_name": "Australian Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Australian_Shepherd.jpg/100px-Australian_Shepherd.jpg"
+    },
+    {
+        "name": "Australian Silky Terrier",
+        "group": "236",
+        "alternative_name": "Australian Silky Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Australian_Silky_Terrier.jpg/100px-Australian_Silky_Terrier.jpg"
+    },
+    {
+        "name": "Australian Stumpy Tail Cattle Dog",
+        "group": "351",
+        "alternative_name": "Australian Stumpy Tail Cattle Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Australian_Stumpy_Tail_Cattle_Dog.jpg/100px-Australian_Stumpy_Tail_Cattle_Dog.jpg"
+    },
+    {
+        "name": "Australian terrier",
+        "group": "8",
+        "alternative_name": "Australian Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Australian_Terrier2.jpg/100px-Australian_Terrier2.jpg"
+    },
+    {
+        "name": "Azawakh",
+        "group": "307",
+        "alternative_name": "Azawakh",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chart_afryka%C5%84ski_azawakh_31.jpg/100px-Chart_afryka%C5%84ski_azawakh_31.jpg"
+    },
+    {
+        "name": "Bangkaew Dog",
+        "group": "358",
+        "alternative_name": "Thai Bangkaew Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Thai_Bangkaew_Dog_2.jpg/100px-Thai_Bangkaew_Dog_2.jpg"
+    },
+    {
+        "name": "Barbet",
+        "group": "105",
+        "alternative_name": "Barbet",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chien_de_race_Barbet.jpg/120px-Chien_de_race_Barbet.jpg"
+    },
+    {
+        "name": "Majorero Canario",
+        "group": "",
+        "alternative_name": "Perro majorero",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bardina-Donna-1.jpg/100px-Bardina-Donna-1.jpg"
+    },
+    {
+        "name": "Barzoï",
+        "group": "193",
+        "alternative_name": "Borzoi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borzoi_female.jpg/100px-Borzoi_female.jpg"
+    },
+    {
+        "name": "Basenji",
+        "group": "43",
+        "alternative_name": "Basenji",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Basenji_600.jpg/100px-Basenji_600.jpg"
+    },
+    {
+        "name": "Basset artésien normand",
+        "group": "34",
+        "alternative_name": "Basset Artésien Normand",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Basset_artezyjsko-normandzki._Umbra_z_Romisz%C3%B3wki.jpg/100px-Basset_artezyjsko-normandzki._Umbra_z_Romisz%C3%B3wki.jpg"
+    },
+    {
+        "name": "Basset bleu de Gascogne",
+        "group": "35",
+        "alternative_name": "Basset Bleu de Gascogne",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Basset_bleu_de_Gascogne.jpg/100px-Basset_bleu_de_Gascogne.jpg"
+    },
+    {
+        "name": "Basset Fauve de Bretagne",
+        "group": "36",
+        "alternative_name": "Fawn Brittany Basset",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Basset_Fauve_de_Bretagne_600.jpg/100px-Basset_Fauve_de_Bretagne_600.jpg"
+    },
+    {
+        "name": "Basset Hound",
+        "group": "163",
+        "alternative_name": "basset hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Basset_Hound_600.jpg/100px-Basset_Hound_600.jpg"
+    },
+    {
+        "name": "Bayerischer Gebirgsschweißhund",
+        "group": "217",
+        "alternative_name": "Bavarian Mountain Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zoran_Spod_Ruskiej_Granicy_the_Bavarian_Mountain_Hound.jpg/100px-Zoran_Spod_Ruskiej_Granicy_the_Bavarian_Mountain_Hound.jpg"
+    },
+    {
+        "name": "Beagle",
+        "group": "161",
+        "alternative_name": "beagle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/100px-Beagle_600.jpg"
+    },
+    {
+        "name": "Bearded Collie",
+        "group": "271",
+        "alternative_name": "Bearded Collie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bearded_Collie_600.jpg/100px-Bearded_Collie_600.jpg"
+    },
+    {
+        "name": "Beauceron",
+        "group": "44",
+        "alternative_name": "Beauceron",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Beauceron_Mouton2.jpg/100px-Beauceron_Mouton2.jpg"
+    },
+    {
+        "name": "Bedlington Terrier",
+        "group": "9",
+        "alternative_name": "Bedlington Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bedlington_terrier_234.jpg/100px-Bedlington_terrier_234.jpg"
+    },
+    {
+        "name": "Belgian Griffons",
+        "group": "80, 81, 82",
+        "alternative_name": "Belgian Griffons",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gryfonik_brukselski_980.jpg/100px-Gryfonik_brukselski_980.jpg"
+    },
+    {
+        "name": "Bergamasco",
+        "group": "194",
+        "alternative_name": "Bergamasco Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bergamasco_600.jpg/100px-Bergamasco_600.jpg"
+    },
+    {
+        "name": "White Shepherd Dog",
+        "group": "347",
+        "alternative_name": "White Swiss Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wei%C3%9Fer_sch%C3%A4ferhund.jpg/100px-Wei%C3%9Fer_sch%C3%A4ferhund.jpg"
+    },
+    {
+        "name": "Berger Picard",
+        "group": "176",
+        "alternative_name": "Picardy Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Berger_de_Picardie_%28profil%29.jpg/100px-Berger_de_Picardie_%28profil%29.jpg"
+    },
+    {
+        "name": "Berger des Pyrénées",
+        "group": "138 and 141",
+        "alternative_name": "Pyrenean Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berger-des-Pyrenees_Adeux_0565x0404.jpg/100px-Berger-des-Pyrenees_Adeux_0565x0404.jpg"
+    },
+    {
+        "name": "Berner Sennenhund",
+        "group": "45",
+        "alternative_name": "Bernese mountain dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berne%C5%84ski_pies_pasterski.jpg/100px-Berne%C5%84ski_pies_pasterski.jpg"
+    },
+    {
+        "name": "Bichon Frisé",
+        "group": "215",
+        "alternative_name": "Bichon Frisé",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bichon_Frise_600.jpg/100px-Bichon_Frise_600.jpg"
+    },
+    {
+        "name": "Bichon Havanais",
+        "group": "250",
+        "alternative_name": "Havanese",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Havanese_black_particolour.jpg/100px-Havanese_black_particolour.jpg"
+    },
+    {
+        "name": "Billy",
+        "group": "25",
+        "alternative_name": "Billy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Poitou_Hound_from_1915.JPG/100px-Poitou_Hound_from_1915.JPG"
+    },
+    {
+        "name": "Black and Tan Coonhound",
+        "group": "300",
+        "alternative_name": "Black and Tan Coonhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/100px-Black_and_Tan_Coonhound.jpg"
+    },
+    {
+        "name": "Bluetick Coonhound",
+        "group": "",
+        "alternative_name": "Bluetick Coonhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/100px-BluetickCoonhound.jpg"
+    },
+    {
+        "name": "Boerboel",
+        "group": "",
+        "alternative_name": "Boerboel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Boerboel.jpg/100px-Boerboel.jpg"
+    },
+    {
+        "name": "Bolognese",
+        "group": "196",
+        "alternative_name": "Bolognese",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bolo%C5%84czyk_5e3.jpg/100px-Bolo%C5%84czyk_5e3.jpg"
+    },
+    {
+        "name": "Bolonka franzuska",
+        "group": "",
+        "alternative_name": "Bolonka Franzuska",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bolonka-Franzuska.jpg/100px-Bolonka-Franzuska.jpg"
+    },
+    {
+        "name": "Bolonka Zwetna",
+        "group": "",
+        "alternative_name": "Russkaya tsvetnaya bolonka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bolonka_Zwetna.jpg/100px-Bolonka_Zwetna.jpg"
+    },
+    {
+        "name": "Border Collie",
+        "group": "297",
+        "alternative_name": "border collie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/100px-Border_Collie_600.jpg"
+    },
+    {
+        "name": "Border Terrier",
+        "group": "10",
+        "alternative_name": "Border Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/100px-Border_Terrier.jpg"
+    },
+    {
+        "name": "Bosanski Oštrodlaki Gonič - Barak",
+        "group": "155",
+        "alternative_name": "Barak hound",
+        "image_url": ""
+    },
+    {
+        "name": "Boston Terrier",
+        "group": "140",
+        "alternative_name": "Boston Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BostonTerrierBrindleStand_w.jpg/100px-BostonTerrierBrindleStand_w.jpg"
+    },
+    {
+        "name": "Bouvier des Flandres",
+        "group": "191",
+        "alternative_name": "Bouvier des Flandres",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bouvier_des_Flandres.jpg/100px-Bouvier_des_Flandres.jpg"
+    },
+    {
+        "name": "Bouledogue Français",
+        "group": "101",
+        "alternative_name": "French Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Buldog_francuski_pszeniczny.jpg/100px-Buldog_francuski_pszeniczny.jpg"
+    },
+    {
+        "name": "Boykin Spaniel",
+        "group": "",
+        "alternative_name": "Boykin Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Boykin_spaniel.jpg/100px-Boykin_spaniel.jpg"
+    },
+    {
+        "name": "Bracco Italiano",
+        "group": "202",
+        "alternative_name": "Bracco Italiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bracco_Italiano.jpg/100px-Bracco_Italiano.jpg"
+    },
+    {
+        "name": "Brandlbracke",
+        "group": "63",
+        "alternative_name": "Austrian Black and Tan Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Brandlbracke.jpg/100px-Brandlbracke.jpg"
+    },
+    {
+        "name": "Braque d'Auvergne",
+        "group": "180",
+        "alternative_name": "Braque d'Auvergne",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braque_d%27auvergne_323.jpg/100px-Braque_d%27auvergne_323.jpg"
+    },
+    {
+        "name": "Braque de l'Ariège",
+        "group": "177",
+        "alternative_name": "Ariege Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ariege_Pointer.jpg/100px-Ariege_Pointer.jpg"
+    },
+    {
+        "name": "Braque du Bourbonnais",
+        "group": "179",
+        "alternative_name": "Braque du Bourbonnais",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Braque_du_Bourbonnais.jpg/100px-Braque_du_Bourbonnais.jpg"
+    },
+    {
+        "name": "Braque francais type Pyrenees",
+        "group": "134",
+        "alternative_name": "French Pointing Dog - Pyrenean type",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wy%C5%BCe%C5%82_pirenejski_308.jpg/100px-Wy%C5%BCe%C5%82_pirenejski_308.jpg"
+    },
+    {
+        "name": "Braque Saint-Germain",
+        "group": "177",
+        "alternative_name": "Braque Saint-Germain",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Braque_saint-germain_666.jpg/100px-Braque_saint-germain_666.jpg"
+    },
+    {
+        "name": "Briard",
+        "group": "113",
+        "alternative_name": "Briard",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aramis-briard.JPG/100px-Aramis-briard.JPG"
+    },
+    {
+        "name": "Briquet Griffon Vendeen",
+        "group": "19",
+        "alternative_name": "Briquet Griffon Vendéen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Briquet_Griffon_Vendeen.jpg/100px-Briquet_Griffon_Vendeen.jpg"
+    },
+    {
+        "name": "Broholmer",
+        "group": "315",
+        "alternative_name": "Broholmer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ivarr.JPG/120px-Ivarr.JPG"
+    },
+    {
+        "name": "Bulldog",
+        "group": "149",
+        "alternative_name": "Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bulldog_standing.JPG/120px-Bulldog_standing.JPG"
+    },
+    {
+        "name": "Bull Terrier",
+        "group": "11 and 359",
+        "alternative_name": "Bull Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mini_Bull_Terrier.jpg/100px-Mini_Bull_Terrier.jpg"
+    },
+    {
+        "name": "Bullmastiff",
+        "group": "157",
+        "alternative_name": "Bullmastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bullmastiff_Junghund_1_Jahr.jpg/100px-Bullmastiff_Junghund_1_Jahr.jpg"
+    },
+    {
+        "name": "Ca de Bou",
+        "group": "249",
+        "alternative_name": "Perro de Presa Mallorquin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ca_de_bou_347.jpg/100px-Ca_de_bou_347.jpg"
+    },
+    {
+        "name": "Ca de Bestiar",
+        "group": "321",
+        "alternative_name": "Majorca Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ca_de_Bestiar.JPG/100px-Ca_de_Bestiar.JPG"
+    },
+    {
+        "name": "Cairn Terrier",
+        "group": "4",
+        "alternative_name": "Cairn Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cairn-terriers.jpg/100px-Cairn-terriers.jpg"
+    },
+    {
+        "name": "Can de palleiro",
+        "group": "",
+        "alternative_name": "Can de Palleiro",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Palleiro1.JPG/100px-Palleiro1.JPG"
+    },
+    {
+        "name": "Canaan Dog",
+        "group": "273",
+        "alternative_name": "Canaan Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/CanaanDog3.jpg/100px-CanaanDog3.jpg"
+    },
+    {
+        "name": "Canadian Inuit Dog",
+        "group": "211",
+        "alternative_name": "Canadian Eskimo Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canadian_Inuit_Dog.jpg/120px-Canadian_Inuit_Dog.jpg"
+    },
+    {
+        "name": "Cane Corso Italiano",
+        "group": "343",
+        "alternative_name": "Cane Corso",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CaneCorso_%2823%29.jpg/100px-CaneCorso_%2823%29.jpg"
+    },
+    {
+        "name": "Cane da pastore Maremmano-Abruzzese",
+        "group": "201",
+        "alternative_name": "Maremma Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Maremma_Sheepdog.jpg/100px-The_Maremma_Sheepdog.jpg"
+    },
+    {
+        "name": "Cane di mannara",
+        "group": "",
+        "alternative_name": "Sicilian Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Leonecanedimannara.jpg/100px-Leonecanedimannara.jpg"
+    },
+    {
+        "name": "Poodle",
+        "group": "172",
+        "alternative_name": "poodle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pudel_miniatura_342.jpg/100px-Pudel_miniatura_342.jpg"
+    },
+    {
+        "name": "Cão de Água Português",
+        "group": "37",
+        "alternative_name": "Portuguese water dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg/100px-C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg"
+    },
+    {
+        "name": "Cão Fila de São Miguel",
+        "group": "340",
+        "alternative_name": "Azores Cattle Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Caofila.jpg/100px-Caofila.jpg"
+    },
+    {
+        "name": "Cão de Gado Transmontano",
+        "group": "368",
+        "alternative_name": "Cão de gado transmontano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TRANSMONTANO.jpg/100px-TRANSMONTANO.jpg"
+    },
+    {
+        "name": "Cao de Serra de Aires",
+        "group": "93",
+        "alternative_name": "Portuguese Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cao_de_Serra_de_Aires600.jpg/100px-Cao_de_Serra_de_Aires600.jpg"
+    },
+    {
+        "name": "Caravan hound",
+        "group": "",
+        "alternative_name": "Mudhol Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Caravan_hound_Dolly1.jpg/100px-Caravan_hound_Dolly1.jpg"
+    },
+    {
+        "name": "Carolina Dog",
+        "group": "",
+        "alternative_name": "Carolina Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Carolina_Dog_1.jpg/100px-Carolina_Dog_1.jpg"
+    },
+    {
+        "name": "Catahoula Leopard Dog",
+        "group": "",
+        "alternative_name": "Leopard Tree Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lucy_the_Catahoula_Leopard_Dog.jpg/100px-Lucy_the_Catahoula_Leopard_Dog.jpg"
+    },
+    {
+        "name": "Catahoula Bulldog",
+        "group": "",
+        "alternative_name": "Catahoula Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Catahoula_Bulldog_red_tan.jpg/100px-Catahoula_Bulldog_red_tan.jpg"
+    },
+    {
+        "name": "Caucasian Ovcharka",
+        "group": "328",
+        "alternative_name": "Caucasian Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Owczarek_kaukaski_65.jpg/100px-Owczarek_kaukaski_65.jpg"
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "group": "136",
+        "alternative_name": "Cavalier King Charles Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cavalier-king-charles-spaniels.jpg/100px-Cavalier-king-charles-spaniels.jpg"
+    },
+    {
+        "name": "Central Asian Ovcharka",
+        "group": "335",
+        "alternative_name": "Central Asian Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Owczarek_%C5%9Brodkowoazjatycki.jpg/100px-Owczarek_%C5%9Brodkowoazjatycki.jpg"
+    },
+    {
+        "name": "Český fousek",
+        "group": "245",
+        "alternative_name": "Cesky Fousek",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Czeski_fousek_bg6.jpg/100px-Czeski_fousek_bg6.jpg"
+    },
+    {
+        "name": "Bohemian Spotted Dog",
+        "group": "",
+        "alternative_name": "Bohemian Spotted Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Horaklabor.jpg/100px-Horaklabor.jpg"
+    },
+    {
+        "name": "Cesky-Terier",
+        "group": "246",
+        "alternative_name": "Cesky Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Terier_czeski_123_LM.jpg/100px-Terier_czeski_123_LM.jpg"
+    },
+    {
+        "name": "Čierny šery",
+        "group": "",
+        "alternative_name": "Black Slovakian Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/8s45heryprobaobraz_018.jpg/100px-8s45heryprobaobraz_018.jpg"
+    },
+    {
+        "name": "Československý vlčiak",
+        "group": "332",
+        "alternative_name": "Czechoslovakian Wolfdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TWH-jolly.JPG/100px-TWH-jolly.JPG"
+    },
+    {
+        "name": "Chart Polski",
+        "group": "333",
+        "alternative_name": "Polish Greyhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chart_polski_67u7.jpg/100px-Chart_polski_67u7.jpg"
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "group": "263",
+        "alternative_name": "Chesapeake Bay Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chesapeakebayretriever01-l.jpg/100px-Chesapeakebayretriever01-l.jpg"
+    },
+    {
+        "name": "Great Pyrenees",
+        "group": "137",
+        "alternative_name": "Pyrenean Mountain Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pyrenean_Mountain_Dog_600.jpg/100px-Pyrenean_Mountain_Dog_600.jpg"
+    },
+    {
+        "name": "Belgian Groenendael",
+        "group": "15",
+        "alternative_name": "Groenendael",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Belgian_Groenendael_600.jpg/100px-Belgian_Groenendael_600.jpg"
+    },
+    {
+        "name": "Belgian Shepherd Laekenois",
+        "group": "15",
+        "alternative_name": "Laekenois",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Belgian_Laekenois_600.jpg/100px-Belgian_Laekenois_600.jpg"
+    },
+    {
+        "name": "Malinois",
+        "group": "15",
+        "alternative_name": "Belgian Malinois",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Belgian_Malinois_male_Flickr.jpg/100px-Belgian_Malinois_male_Flickr.jpg"
+    },
+    {
+        "name": "Belgian Shepherd Tervuren",
+        "group": "15",
+        "alternative_name": "Tervuren",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tervueren.jpg/120px-Tervueren.jpg"
+    },
+    {
+        "name": "Cão da Serra da Estrela",
+        "group": "173",
+        "alternative_name": "Estrela Mountain Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cao_da_serra_da_estrela_777.jpg/100px-Cao_da_serra_da_estrela_777.jpg"
+    },
+    {
+        "name": "Cão de Castro Laboreiro",
+        "group": "170",
+        "alternative_name": "Portuguese Cattle Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cao_de_castro_laboreiro.jpg/100px-Cao_de_castro_laboreiro.jpg"
+    },
+    {
+        "name": "Chien de Saint-Hubert",
+        "group": "84",
+        "alternative_name": "bloodhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bloodhound_800.jpg/100px-Bloodhound_800.jpg"
+    },
+    {
+        "name": "Chien d'Artois",
+        "group": "28",
+        "alternative_name": "Artois Hound",
+        "image_url": ""
+    },
+    {
+        "name": "Chihuahua",
+        "group": "218",
+        "alternative_name": "Chihuahua",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Can047eue.jpg/100px-Can047eue.jpg"
+    },
+    {
+        "name": "Chinese Crested Dog",
+        "group": "288",
+        "alternative_name": "Chinese Crested Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IndyStands.jpg/120px-IndyStands.jpg"
+    },
+    {
+        "name": "Chinook",
+        "group": "",
+        "alternative_name": "Chinook",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mountan_Laurel_Ajax_the_Chinook_dog.jpg/120px-Mountan_Laurel_Ajax_the_Chinook_dog.jpg"
+    },
+    {
+        "name": "Chodský pes",
+        "group": "364",
+        "alternative_name": "Bohemian Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IRLUKA_KROSANDRA_%281%29.jpg/100px-IRLUKA_KROSANDRA_%281%29.jpg"
+    },
+    {
+        "name": "Chortaj",
+        "group": "",
+        "alternative_name": "Chortai",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hortaya_Borzaya.jpg/100px-Hortaya_Borzaya.jpg"
+    },
+    {
+        "name": "Chow Chow",
+        "group": "205",
+        "alternative_name": "Chow Chow",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chowchow.jpg/100px-Chowchow.jpg"
+    },
+    {
+        "name": "Ciobanesc Romanesc Carpatin",
+        "group": "350",
+        "alternative_name": "Carpathian Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carpathian_Sheepdog-1.jpg/100px-Carpathian_Sheepdog-1.jpg"
+    },
+    {
+        "name": "Ciobanesc Romanesc de Bucovina",
+        "group": "357",
+        "alternative_name": "Bucovina Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bucovina_Sheepdog.jpg/100px-Bucovina_Sheepdog.jpg"
+    },
+    {
+        "name": "Ciobanesc Romanesc Mioritic",
+        "group": "349",
+        "alternative_name": "Mioritic",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mioritic.jpg/100px-Mioritic.jpg"
+    },
+    {
+        "name": "Cirneco dell'Etna",
+        "group": "199",
+        "alternative_name": "Cirneco dell'Etna",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CIRNECO_DELL%27ETNA%2C_MASCHIO_DI_3_ANNI_%28cropped%29.jpg/100px-CIRNECO_DELL%27ETNA%2C_MASCHIO_DI_3_ANNI_%28cropped%29.jpg"
+    },
+    {
+        "name": "Clumber Spaniel",
+        "group": "109",
+        "alternative_name": "Clumber Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Clumber_spaniel_767.jpg/100px-Clumber_spaniel_767.jpg"
+    },
+    {
+        "name": "Kangal Çoban Köpeği",
+        "group": "331",
+        "alternative_name": "Kangal Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kangal-welpen-de_003.jpg/100px-Kangal-welpen-de_003.jpg"
+    },
+    {
+        "name": "Cockapoo",
+        "group": "",
+        "alternative_name": "Cockapoo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_2-years-old_Cockapoo.jpg/100px-A_2-years-old_Cockapoo.jpg"
+    },
+    {
+        "name": "Continental Toy Spaniel Papillon",
+        "group": "77",
+        "alternative_name": "Papillon",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Dog1515.jpg/100px-Dog1515.jpg"
+    },
+    {
+        "name": "Coton de Tulear",
+        "group": "283",
+        "alternative_name": "Coton de Tulear",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coton_de_Tular_1.jpg/100px-Coton_de_Tular_1.jpg"
+    },
+    {
+        "name": "Crete Hound",
+        "group": "",
+        "alternative_name": "Cretan Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kritikosichnilatis_1.jpg/100px-Kritikosichnilatis_1.jpg"
+    },
+    {
+        "name": "Cursinu",
+        "group": "",
+        "alternative_name": "Cursinu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cursinu_JPG.jpg/100px-Cursinu_JPG.jpg"
+    },
+    {
+        "name": "Curly Coated Retriever",
+        "group": "110",
+        "alternative_name": "Curly Coated Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Curly_Coated_Retriever.jpg/100px-Curly_Coated_Retriever.jpg"
+    },
+    {
+        "name": "Dachshund",
+        "group": "148",
+        "alternative_name": "dachshund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MiniDachshund1_wb.jpg/100px-MiniDachshund1_wb.jpg"
+    },
+    {
+        "name": "Dalmatiner",
+        "group": "153",
+        "alternative_name": "Dalmatian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dalmatiner_2.jpg/100px-Dalmatiner_2.jpg"
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "group": "168",
+        "alternative_name": "Dandie Dinmont Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dandie_Dinmont_Terrier_600.jpg/100px-Dandie_Dinmont_Terrier_600.jpg"
+    },
+    {
+        "name": "Dansk-Svensk Gaardshund",
+        "group": "356",
+        "alternative_name": "Danish Swedish Farmdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DanishFarmDog.jpg/100px-DanishFarmDog.jpg"
+    },
+    {
+        "name": "Decker Terrier",
+        "group": "",
+        "alternative_name": "Decker Terrier",
+        "image_url": ""
+    },
+    {
+        "name": "Deerhound",
+        "group": "164",
+        "alternative_name": "Scottish Deerhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deerhound_305.jpg/100px-Deerhound_305.jpg"
+    },
+    {
+        "name": "Deutsche Bracke",
+        "group": "299",
+        "alternative_name": "Deutsche Bracke",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DeutscheBracke.jpg/100px-DeutscheBracke.jpg"
+    },
+    {
+        "name": "Boxer",
+        "group": "144",
+        "alternative_name": "Boxer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Boxer_female_brown.jpg/100px-Boxer_female_brown.jpg"
+    },
+    {
+        "name": "Great Dane",
+        "group": "235",
+        "alternative_name": "Great Dane",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dogge_Odin.jpg/120px-Dogge_Odin.jpg"
+    },
+    {
+        "name": "Deutsch-Langhaar",
+        "group": "117",
+        "alternative_name": "German Longhaired Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DeutschLanghaarneu.jpg/100px-DeutschLanghaarneu.jpg"
+    },
+    {
+        "name": "Deutsch Stichelhaar",
+        "group": "232",
+        "alternative_name": "Stichelhaar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/03030288_Deutsch_Stichelhaa.jpg/100px-03030288_Deutsch_Stichelhaa.jpg"
+    },
+    {
+        "name": "Deutscher Pinscher",
+        "group": "184",
+        "alternative_name": "German Pinscher",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/German_Pinscher.JPG/100px-German_Pinscher.JPG"
+    },
+    {
+        "name": "Deutscher Spitz",
+        "group": "97",
+        "alternative_name": "German Spitz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Keeshond_Majic.jpg/100px-Keeshond_Majic.jpg"
+    },
+    {
+        "name": "Deutscher Wachtel",
+        "group": "104",
+        "alternative_name": "German Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Deutscher_Wachtel_2.jpg/100px-Deutscher_Wachtel_2.jpg"
+    },
+    {
+        "name": "Deutsch Kurzhaar",
+        "group": "119",
+        "alternative_name": "German Shorthaired Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/GermanShorthPtr_wb.jpg/100px-GermanShorthPtr_wb.jpg"
+    },
+    {
+        "name": "Deutscher Schäferhund",
+        "group": "166",
+        "alternative_name": "German Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/GermanShep1_wb.jpg/120px-GermanShep1_wb.jpg"
+    },
+    {
+        "name": "Deutsch Drahthaar",
+        "group": "98",
+        "alternative_name": "German Wirehaired Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GermanWirehrPtr1_wb.jpg/100px-GermanWirehrPtr1_wb.jpg"
+    },
+    {
+        "name": "Do-Khyi",
+        "group": "230",
+        "alternative_name": "Tibetan Mastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/11m-czny_mastif.jpg/120px-11m-czny_mastif.jpg"
+    },
+    {
+        "name": "Dobermann",
+        "group": "143",
+        "alternative_name": "Dobermann",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dobermann.jpg/100px-Dobermann.jpg"
+    },
+    {
+        "name": "Dogo Argentino",
+        "group": "292",
+        "alternative_name": "Dogo Argentino",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dogo_Argentino.jpg/100px-Dogo_Argentino.jpg"
+    },
+    {
+        "name": "Dogo Canario",
+        "group": "346",
+        "alternative_name": "Presa Canario",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Perro-de-Presa-Canario.jpg/100px-Perro-de-Presa-Canario.jpg"
+    },
+    {
+        "name": "Dogue de Bordeaux",
+        "group": "116",
+        "alternative_name": "Dogue de Bordeaux",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dogue_de_Bordeaux_standing.jpg/100px-Dogue_de_Bordeaux_standing.jpg"
+    },
+    {
+        "name": "Drentse Patrijshond",
+        "group": "224",
+        "alternative_name": "Drentse Patrijshond",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Drentse_Patrijshond.jpg/100px-Drentse_Patrijshond.jpg"
+    },
+    {
+        "name": "Drever",
+        "group": "130",
+        "alternative_name": "Drever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Drever_NUCh_Tanjo.jpg/120px-Drever_NUCh_Tanjo.jpg"
+    },
+    {
+        "name": "Dunker",
+        "group": "203",
+        "alternative_name": "Dunker",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dunker.jpg/100px-Dunker.jpg"
+    },
+    {
+        "name": "Estonian Hound",
+        "group": "366",
+        "alternative_name": "Estonian Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Go%C5%84czy_esto%C5%84ski_MB_01.jpg/100px-Go%C5%84czy_esto%C5%84ski_MB_01.jpg"
+    },
+    {
+        "name": "Elo",
+        "group": "",
+        "alternative_name": "Elo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Elo.jpg/100px-Elo.jpg"
+    },
+    {
+        "name": "English cocker spaniel",
+        "group": "5",
+        "alternative_name": "English Cocker Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/EnglishCockerSpaniel_wb.jpg/100px-EnglishCockerSpaniel_wb.jpg"
+    },
+    {
+        "name": "English Coonhound",
+        "group": "",
+        "alternative_name": "American English Coonhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/English_Coonhound.jpg/100px-English_Coonhound.jpg"
+    },
+    {
+        "name": "English Foxhound",
+        "group": "159",
+        "alternative_name": "English Foxhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/English_Foxhound_portrait.jpg/100px-English_Foxhound_portrait.jpg"
+    },
+    {
+        "name": "English springer spaniel",
+        "group": "125",
+        "alternative_name": "English Springer Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/English-Springer-Spaniel.jpg/100px-English-Springer-Spaniel.jpg"
+    },
+    {
+        "name": "English Pointer",
+        "group": "1",
+        "alternative_name": "English Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/English_pointer.jpg/100px-English_pointer.jpg"
+    },
+    {
+        "name": "English Setter",
+        "group": "2",
+        "alternative_name": "English Setter",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/English_setter.jpg/100px-English_setter.jpg"
+    },
+    {
+        "name": "English Toy Terrier",
+        "group": "13",
+        "alternative_name": "English Toy Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/English_Toy_Terrier_600_01.jpg/100px-English_Toy_Terrier_600_01.jpg"
+    },
+    {
+        "name": "Entlebucher Sennenhund",
+        "group": "47",
+        "alternative_name": "Entlebucher Mountain Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Entlebucher2_wb.jpg/100px-Entlebucher2_wb.jpg"
+    },
+    {
+        "name": "Epagneul bleu de Picardie",
+        "group": "106",
+        "alternative_name": "Blue Picardy Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Epagneul_bleu_de_picardie_868.jpg/100px-Epagneul_bleu_de_picardie_868.jpg"
+    },
+    {
+        "name": "Epagneul Breton",
+        "group": "95",
+        "alternative_name": "Brittany",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Epagneul_Breton.jpg/100px-Epagneul_Breton.jpg"
+    },
+    {
+        "name": "Epagneul Français",
+        "group": "175",
+        "alternative_name": "French Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Epagneulfrancais.jpg/100px-Epagneulfrancais.jpg"
+    },
+    {
+        "name": "Epagneul Picard",
+        "group": "108",
+        "alternative_name": "Picardy Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Epagneul_picard_685.jpg/100px-Epagneul_picard_685.jpg"
+    },
+    {
+        "name": "Epagneul de Pont-Audemer",
+        "group": "114",
+        "alternative_name": "Pont-Audemer Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Epagneul_de_pont-audemer_h67.jpg/100px-Epagneul_de_pont-audemer_h67.jpg"
+    },
+    {
+        "name": "Epagneul de Saint-Usuge",
+        "group": "",
+        "alternative_name": "Saint-Usuge Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EpagneuldeSaintUsuge.jpg/100px-EpagneuldeSaintUsuge.jpg"
+    },
+    {
+        "name": "Erdélyi Kopó",
+        "group": "241",
+        "alternative_name": "Transylvanian hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Erdelyi_kopo_VadaszNimrodSzeder01.jpg/100px-Erdelyi_kopo_VadaszNimrodSzeder01.jpg"
+    },
+    {
+        "name": "Eurasier",
+        "group": "291",
+        "alternative_name": "Eurasier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eurasier_Image_001.jpg/100px-Eurasier_Image_001.jpg"
+    },
+    {
+        "name": "Fila Brasileiro",
+        "group": "225",
+        "alternative_name": "Fila Brasileiro",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mastif_brazylijski_g56.jpg/100px-Mastif_brazylijski_g56.jpg"
+    },
+    {
+        "name": "Flat Coated Retriever",
+        "group": "121",
+        "alternative_name": "Flat-Coated Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flat-Coated_Retriever_large.jpg/100px-Flat-Coated_Retriever_large.jpg"
+    },
+    {
+        "name": "Fox Terrier",
+        "group": "12 and 169",
+        "alternative_name": "Fox Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Elias1%C4%8Derven2006.jpg/100px-Elias1%C4%8Derven2006.jpg"
+    },
+    {
+        "name": "Galgo español",
+        "group": "285",
+        "alternative_name": "Galgo Español",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Galgo_Espa%C3%B1ol_hembra_03.jpg/100px-Galgo_Espa%C3%B1ol_hembra_03.jpg"
+    },
+    {
+        "name": "Gammel Dansk Hønsehund",
+        "group": "281",
+        "alternative_name": "Old Danish Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wy%C5%BCe%C5%82_du%C5%84ski_123.jpg/100px-Wy%C5%BCe%C5%82_du%C5%84ski_123.jpg"
+    },
+    {
+        "name": "Georgian Shepherd",
+        "group": "",
+        "alternative_name": "Georgian Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Georgia_Shepherd.jpg/120px-Georgia_Shepherd.jpg"
+    },
+    {
+        "name": "Glen of Imaal Terrier",
+        "group": "302",
+        "alternative_name": "Glen of Imaal Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adult_Glen_of_Imaal_terrier.jpg/100px-Adult_Glen_of_Imaal_terrier.jpg"
+    },
+    {
+        "name": "Golden Retriever",
+        "group": "111",
+        "alternative_name": "Golden Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Golden_Retriever_standing_Tucker.jpg/100px-Golden_Retriever_standing_Tucker.jpg"
+    },
+    {
+        "name": "Gończy Polski",
+        "group": "354",
+        "alternative_name": "Polish Hunting Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/PolishScenthoundChPl-DRAN-GoniecPomorski-wl.M.Dydel.jpg/100px-PolishScenthoundChPl-DRAN-GoniecPomorski-wl.M.Dydel.jpg"
+    },
+    {
+        "name": "Gordon Setter",
+        "group": "6",
+        "alternative_name": "Gordon Setter",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/100px-Orrvilas_enska_w800px.jpg"
+    },
+    {
+        "name": "Gos-d'Atura-Catala",
+        "group": "87",
+        "alternative_name": "Catalan Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gos-d%27Atura-Catala.jpg/100px-Gos-d%27Atura-Catala.jpg"
+    },
+    {
+        "name": "Gotlandsstövare",
+        "group": "",
+        "alternative_name": "Gotland Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gotland_Hound_2.jpg/100px-Gotland_Hound_2.jpg"
+    },
+    {
+        "name": "Grand anglo-français tricolore",
+        "group": "322",
+        "alternative_name": "Great Anglo-French Tricolour Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Grand_anglo_francais_tricol.jpg/100px-Grand_anglo_francais_tricol.jpg"
+    },
+    {
+        "name": "Grand anglo-français blanc et orange",
+        "group": "324",
+        "alternative_name": "Great Anglo-French White and Orange Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/06101298_Grand_anglo_francais_orange.jpg/100px-06101298_Grand_anglo_francais_orange.jpg"
+    },
+    {
+        "name": "Grand anglo-français blanc et noir",
+        "group": "323",
+        "alternative_name": "Great Anglo-French White and Black Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grand_anglo_francais_noir.jpg/120px-Grand_anglo_francais_noir.jpg"
+    },
+    {
+        "name": "Grand Basset Griffon Vendéen",
+        "group": "33",
+        "alternative_name": "Large Vendeen Griffon Basset",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G_Basset_Griffon_Vendeen_600.jpg/100px-G_Basset_Griffon_Vendeen_600.jpg"
+    },
+    {
+        "name": "Grand Griffon Vendeen",
+        "group": "282",
+        "alternative_name": "Grand Griffon Vendéen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rosa_Bonheur_Grand_Griffon_Vendeen.jpg/100px-Rosa_Bonheur_Grand_Griffon_Vendeen.jpg"
+    },
+    {
+        "name": "Grand Bleu de Gascogne",
+        "group": "22",
+        "alternative_name": "Great Gascony Blue",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Grand_Bleu_de_Gascogne_in_a_blue_dogcollar.jpg/100px-Grand_Bleu_de_Gascogne_in_a_blue_dogcollar.jpg"
+    },
+    {
+        "name": "Grønlandshund",
+        "group": "274",
+        "alternative_name": "Greenland Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pies_grenlandzki_871.jpg/100px-Pies_grenlandzki_871.jpg"
+    },
+    {
+        "name": "Greyhound",
+        "group": "158",
+        "alternative_name": "greyhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Greyhound_894.jpg/100px-Greyhound_894.jpg"
+    },
+    {
+        "name": "Griffon Fauve de Bretagne",
+        "group": "66",
+        "alternative_name": "Fawn Brittany Griffon",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/08115500_Griffon_Fauve_Bretagne.jpg/100px-08115500_Griffon_Fauve_Bretagne.jpg"
+    },
+    {
+        "name": "Griffon bleu de Gascogne",
+        "group": "32",
+        "alternative_name": "Blue Gascony Griffon",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/04031124_Griffon_Bleu_de_Gascogne.jpg/100px-04031124_Griffon_Bleu_de_Gascogne.jpg"
+    },
+    {
+        "name": "Griffon d'arrêt à poil dur Korthals",
+        "group": "107",
+        "alternative_name": "Wirehaired Pointing Griffon",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Korthalsgriffon.jpg/100px-Korthalsgriffon.jpg"
+    },
+    {
+        "name": "Griffon Nivernais",
+        "group": "17",
+        "alternative_name": "Griffon Nivernais",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Griffon_nivernais.jpg/100px-Griffon_nivernais.jpg"
+    },
+    {
+        "name": "Grosser Schweizer Sennenhund",
+        "group": "58",
+        "alternative_name": "Greater Swiss Mountain Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gro%C3%9Fer_Schweizer_Sennenhund.jpg/100px-Gro%C3%9Fer_Schweizer_Sennenhund.jpg"
+    },
+    {
+        "name": "Haldenstovare",
+        "group": "267",
+        "alternative_name": "Halden Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haldenstovare.jpg/100px-Haldenstovare.jpg"
+    },
+    {
+        "name": "Hamiltonstövare",
+        "group": "132",
+        "alternative_name": "Hamiltonstövare",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hamiltonstovare_600.jpg/100px-Hamiltonstovare_600.jpg"
+    },
+    {
+        "name": "Hannoverscher Schweisshund",
+        "group": "213",
+        "alternative_name": "Hanover Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hannoverscher_Schweisshund.jpg/100px-Hannoverscher_Schweisshund.jpg"
+    },
+    {
+        "name": "Harrier",
+        "group": "295",
+        "alternative_name": "Harrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harrier_tricolour.jpg/100px-Harrier_tricolour.jpg"
+    },
+    {
+        "name": "Hellinikos Ichnilatis",
+        "group": "214",
+        "alternative_name": "Greek Harehound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hellinikos_Ichnilatis.jpg/100px-Hellinikos_Ichnilatis.jpg"
+    },
+    {
+        "name": "Hokkaido (dog)",
+        "group": "261",
+        "alternative_name": "Hokkaido inu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hokkaido_02_der.jpg/100px-Hokkaido_02_der.jpg"
+    },
+    {
+        "name": "Hollandse Herdershond",
+        "group": "223",
+        "alternative_name": "Dutch Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/DutchShepherdShortCoat.jpg/100px-DutchShepherdShortCoat.jpg"
+    },
+    {
+        "name": "Hollandse Smoushond",
+        "group": "308",
+        "alternative_name": "Dutch Smoushond",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hollandsche_smoushonden_2.JPG/100px-Hollandsche_smoushonden_2.JPG"
+    },
+    {
+        "name": "Hovawart",
+        "group": "190",
+        "alternative_name": "Hovawart",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hovawart1.jpg/100px-Hovawart1.jpg"
+    },
+    {
+        "name": "Hrvatski ovčar",
+        "group": "277",
+        "alternative_name": "Croatian Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gera062005sed.jpg/100px-Gera062005sed.jpg"
+    },
+    {
+        "name": "Ioujnorousskaîa Ovtcharka",
+        "group": "326",
+        "alternative_name": "Ukrainian Vivcharka",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/South_Russian_Ovcharka.jpg/100px-South_Russian_Ovcharka.jpg"
+    },
+    {
+        "name": "Huntaway",
+        "group": "",
+        "alternative_name": "Huntaway",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Huntaway.JPG/100px-Huntaway.JPG"
+    },
+    {
+        "name": "Irish Red And White Setter",
+        "group": "330",
+        "alternative_name": "Irish Red and White Setter",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seter_irlandzki_bialo-czerwony_pl.jpg/100px-Seter_irlandzki_bialo-czerwony_pl.jpg"
+    },
+    {
+        "name": "Irish Setter",
+        "group": "120",
+        "alternative_name": "Irish Setter",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/100px-Can_Setter_dog_GFDL.jpg"
+    },
+    {
+        "name": "Irish Soft Coated Wheaten Terrier",
+        "group": "40",
+        "alternative_name": "Soft-coated Wheaten Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Soft-coated_wheaten_terrier.jpg/100px-Soft-coated_wheaten_terrier.jpg"
+    },
+    {
+        "name": "Irish Terrier",
+        "group": "139",
+        "alternative_name": "Irish Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Irish_Terrier_DSC_2692.jpg/100px-Irish_Terrier_DSC_2692.jpg"
+    },
+    {
+        "name": "Irish Water Spaniel",
+        "group": "124",
+        "alternative_name": "Irish Water Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Irlandzki_spaniel_wodny_676.jpg/100px-Irlandzki_spaniel_wodny_676.jpg"
+    },
+    {
+        "name": "Irish Wolfhound",
+        "group": "160",
+        "alternative_name": "Irish wolfhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Irischer_Wolshund.jpg/100px-Irischer_Wolshund.jpg"
+    },
+    {
+        "name": "Islenskur Fjárhundur",
+        "group": "289",
+        "alternative_name": "Icelandic Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IcelandSheepdog21.jpg/100px-IcelandSheepdog21.jpg"
+    },
+    {
+        "name": "Istarski kratkodlaki gonič",
+        "group": "151",
+        "alternative_name": "Istrian Shorthaired Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istrische_Bracke.jpg/100px-Istrische_Bracke.jpg"
+    },
+    {
+        "name": "Istarski oštrodlaki gonič",
+        "group": "152",
+        "alternative_name": "Istrian Shorthaired Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Istrian_hound2.jpg/100px-Istrian_hound2.jpg"
+    },
+    {
+        "name": "Jack Russell Terrier",
+        "group": "345",
+        "alternative_name": "Jack Russell Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jackrussellinterrieri.jpg/100px-Jackrussellinterrieri.jpg"
+    },
+    {
+        "name": "Jagdterrier",
+        "group": "103",
+        "alternative_name": "Jagdterrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jagdterrier_223.jpg/100px-Jagdterrier_223.jpg"
+    },
+    {
+        "name": "Jämthund",
+        "group": "42",
+        "alternative_name": "Jämthund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jamthlnd.jpg/100px-Jamthlnd.jpg"
+    },
+    {
+        "name": "Japanese Chin",
+        "group": "206",
+        "alternative_name": "Japanese Chin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Japanese_Chin_adult.jpg/100px-Japanese_Chin_adult.jpg"
+    },
+    {
+        "name": "Kai",
+        "group": "317",
+        "alternative_name": "Kai Ken",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kaidog.jpg/100px-Kaidog.jpg"
+    },
+    {
+        "name": "Karakatschan",
+        "group": "",
+        "alternative_name": "Karakachan Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Karakatschan.jpg/100px-Karakatschan.jpg"
+    },
+    {
+        "name": "Karjalankarhukoira",
+        "group": "48",
+        "alternative_name": "Karelian Bear Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alex-Karelsk_Bjornhund.jpg/100px-Alex-Karelsk_Bjornhund.jpg"
+    },
+    {
+        "name": "Karelo-Finnish Laika",
+        "group": "49",
+        "alternative_name": "Karelo-Finnish Laika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Karelo_Finnish_Laika.jpg/100px-Karelo_Finnish_Laika.jpg"
+    },
+    {
+        "name": "Kraški ovčar",
+        "group": "278",
+        "alternative_name": "Karst Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Owczarek_kraski_g756.jpg/100px-Owczarek_kraski_g756.jpg"
+    },
+    {
+        "name": "Kerry Blue Terrier",
+        "group": "3",
+        "alternative_name": "Kerry Blue Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kerry_Blue_Terrier.jpg/100px-Kerry_Blue_Terrier.jpg"
+    },
+    {
+        "name": "King Charles Spaniel",
+        "group": "128",
+        "alternative_name": "King Charles Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/King_Charles_Spaniel_200.jpg/120px-King_Charles_Spaniel_200.jpg"
+    },
+    {
+        "name": "Kishu Inu",
+        "group": "318",
+        "alternative_name": "Kishu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kishu.jpg/100px-Kishu.jpg"
+    },
+    {
+        "name": "Komondor",
+        "group": "53",
+        "alternative_name": "Komondor",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Komondor_delvin.jpg/100px-Komondor_delvin.jpg"
+    },
+    {
+        "name": "Kooikerhondje",
+        "group": "314",
+        "alternative_name": "Kooikerhondje",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kooiker03.jpg/100px-Kooiker03.jpg"
+    },
+    {
+        "name": "Korean Jindo",
+        "group": "334",
+        "alternative_name": "Korean Jindo Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Korean_Jindo_Dog.jpg/100px-Korean_Jindo_Dog.jpg"
+    },
+    {
+        "name": "Kritikos Lagonikos",
+        "group": "",
+        "alternative_name": "Cretan Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kritikosichnilatis_1.jpg/100px-Kritikosichnilatis_1.jpg"
+    },
+    {
+        "name": "Kromfohrlander",
+        "group": "192",
+        "alternative_name": "Kromfohrländer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kromfohrlaender_glatt.jpg/100px-Kromfohrlaender_glatt.jpg"
+    },
+    {
+        "name": "Kuvasz",
+        "group": "54",
+        "alternative_name": "Kuvasz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2-kuvasz.jpg/100px-2-kuvasz.jpg"
+    },
+    {
+        "name": "Kyi Leo",
+        "group": "",
+        "alternative_name": "Kyi-Leo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kyi_Leo.jpg/100px-Kyi_Leo.jpg"
+    },
+    {
+        "name": "Labradoodle",
+        "group": "",
+        "alternative_name": "Poodle crossbreed",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Labradoodle_Laying_2375px.jpg/100px-Labradoodle_Laying_2375px.jpg"
+    },
+    {
+        "name": "Labrador Retriever",
+        "group": "122",
+        "alternative_name": "Labrador Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Labradorretriever9b.jpg/100px-Labradorretriever9b.jpg"
+    },
+    {
+        "name": "Lagotto Romagnolo",
+        "group": "298",
+        "alternative_name": "Lagotto Romagnolo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lagotto_romagnolo_322.jpg/100px-Lagotto_romagnolo_322.jpg"
+    },
+    {
+        "name": "Lakeland Terrier",
+        "group": "70",
+        "alternative_name": "Lakeland Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/100px-Lakeland_Terrier.jpg"
+    },
+    {
+        "name": "Lancashire Heeler",
+        "group": "360",
+        "alternative_name": "Lancashire Heeler",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lancashire_Heeler_600.jpg/100px-Lancashire_Heeler_600.jpg"
+    },
+    {
+        "name": "Landseer",
+        "group": "226",
+        "alternative_name": "Landseer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landseer.jpg/100px-Landseer.jpg"
+    },
+    {
+        "name": "Lapinporokoira",
+        "group": "284",
+        "alternative_name": "Lapponian Herder",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lapskvallhund.jpg/120px-Lapskvallhund.jpg"
+    },
+    {
+        "name": "Leonberger",
+        "group": "145",
+        "alternative_name": "Leonberger",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Leonberger09.jpg/100px-Leonberger09.jpg"
+    },
+    {
+        "name": "Lhasa Apso",
+        "group": "227",
+        "alternative_name": "Lhasa Apso",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lhasa_apso_r5.jpg/100px-Lhasa_apso_r5.jpg"
+    },
+    {
+        "name": "Lucas Terrier",
+        "group": "",
+        "alternative_name": "Lucas Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/LucasTerrier.jpg/120px-LucasTerrier.jpg"
+    },
+    {
+        "name": "Lundehund",
+        "group": "265",
+        "alternative_name": "Norwegian Lundehund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lundehund-2003.jpg/120px-Lundehund-2003.jpg"
+    },
+    {
+        "name": "Lupo Italiano",
+        "group": "",
+        "alternative_name": "Lupo Italiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LupoItaliano.jpg/100px-LupoItaliano.jpg"
+    },
+    {
+        "name": "Lurcher",
+        "group": "",
+        "alternative_name": "Lurcher",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lurcher_Rocky.jpg/100px-Lurcher_Rocky.jpg"
+    },
+    {
+        "name": "Maltese",
+        "group": "65",
+        "alternative_name": "Maltese",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Maltese_600.jpg/100px-Maltese_600.jpg"
+    },
+    {
+        "name": "Magyar Agar",
+        "group": "240",
+        "alternative_name": "Magyar agár",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/HungarianGreyhound.jpg/100px-HungarianGreyhound.jpg"
+    },
+    {
+        "name": "Magyar Vizsla",
+        "group": "57 and 239",
+        "alternative_name": "Vizsla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg/100px-Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg"
+    },
+    {
+        "name": "Manchester Terrier",
+        "group": "71",
+        "alternative_name": "Manchester Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mancherster_Terrier.jpg/100px-Mancherster_Terrier.jpg"
+    },
+    {
+        "name": "Maneto",
+        "group": "",
+        "alternative_name": "Maneto",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Maneto_2.jpg/100px-Maneto_2.jpg"
+    },
+    {
+        "name": "Markiesje",
+        "group": "",
+        "alternative_name": "Dutch Tulip Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Markiesje2.gif/100px-Markiesje2.gif"
+    },
+    {
+        "name": "English Mastiff",
+        "group": "264",
+        "alternative_name": "English Mastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mastiff_2.jpg/100px-Mastiff_2.jpg"
+    },
+    {
+        "name": "Mastín del Pirineo",
+        "group": "92",
+        "alternative_name": "Pyrenean Mastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MasPiri-Puma-FIN.jpg/100px-MasPiri-Puma-FIN.jpg"
+    },
+    {
+        "name": "Mastín español",
+        "group": "91",
+        "alternative_name": "Spanish Mastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mastif_hiszpa%C5%84ski_7512.jpg/100px-Mastif_hiszpa%C5%84ski_7512.jpg"
+    },
+    {
+        "name": "Middleasian greyhound - Tazi",
+        "group": "",
+        "alternative_name": "Kazakh tazy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chart_%C5%9Brodkowoazjatycki_Zeila.jpg/100px-Chart_%C5%9Brodkowoazjatycki_Zeila.jpg"
+    },
+    {
+        "name": "Miniature American Shepherd",
+        "group": "367",
+        "alternative_name": "Miniature American Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Miniature-american-shepherd-energies.jpg/100px-Miniature-american-shepherd-energies.jpg"
+    },
+    {
+        "name": "Miniature Australian Shepherd",
+        "group": "",
+        "alternative_name": "Miniature Australian Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Miniature_Australian_Shepherd_red_tricolour.jpg/100px-Miniature_Australian_Shepherd_red_tricolour.jpg"
+    },
+    {
+        "name": "Miniature Bull Terrier",
+        "group": "359",
+        "alternative_name": "Miniature Bull Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Minibull_3_Moletai_May_2014.jpg/100px-Minibull_3_Moletai_May_2014.jpg"
+    },
+    {
+        "name": "Miniature Pinscher",
+        "group": "185",
+        "alternative_name": "Miniature Pinscher",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwergpinscher.Denzo-vom-Reichsgraf-zu-Herrenheim_1500X1500.jpg/100px-Zwergpinscher.Denzo-vom-Reichsgraf-zu-Herrenheim_1500X1500.jpg"
+    },
+    {
+        "name": "Miniature Shar Pei",
+        "group": "",
+        "alternative_name": "Miniature Shar Pei",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/XBlack.JPG/100px-XBlack.JPG"
+    },
+    {
+        "name": "Moskovskaya Storozhevaya",
+        "group": "",
+        "alternative_name": "Moscow Watchdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Moscowwatchdog.jpg/100px-Moscowwatchdog.jpg"
+    },
+    {
+        "name": "Münsterländer",
+        "group": "102 and 118",
+        "alternative_name": "Munsterlander",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kleiner_Munsterlander_edit.jpg/100px-Kleiner_Munsterlander_edit.jpg"
+    },
+    {
+        "name": "Mudi",
+        "group": "238",
+        "alternative_name": "Mudi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hondenras_Mudi.jpg/100px-Hondenras_Mudi.jpg"
+    },
+    {
+        "name": "Neapolitan Mastiff",
+        "group": "197",
+        "alternative_name": "Neapolitan Mastiff",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cannon_-_Male_Neapolitan_Mastiff_1998.jpeg/100px-Cannon_-_Male_Neapolitan_Mastiff_1998.jpeg"
+    },
+    {
+        "name": "Newfoundland",
+        "group": "50",
+        "alternative_name": "Newfoundland dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Newfoundland_brown.jpg/120px-Newfoundland_brown.jpg"
+    },
+    {
+        "name": "Nihon Supittsu",
+        "group": "262",
+        "alternative_name": "Japanese Spitz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Japanspitz_600.JPG/100px-Japanspitz_600.JPG"
+    },
+    {
+        "name": "Norrbottenspets",
+        "group": "276",
+        "alternative_name": "Norrbottenspets",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nordic_Spitz.jpg/100px-Nordic_Spitz.jpg"
+    },
+    {
+        "name": "Norsk Buhund",
+        "group": "237",
+        "alternative_name": "Norwegian Buhund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Norsk_buhund.jpg/100px-Norsk_buhund.jpg"
+    },
+    {
+        "name": "Norsk Elghund",
+        "group": "242 and 268",
+        "alternative_name": "Norwegian Elkhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Norwegian_Elkhound.jpg/100px-Norwegian_Elkhound.jpg"
+    },
+    {
+        "name": "Norfolk Terrier",
+        "group": "272",
+        "alternative_name": "Norfolk Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Norfolkterriersideview.jpg/100px-Norfolkterriersideview.jpg"
+    },
+    {
+        "name": "Norwich Terrier",
+        "group": "72",
+        "alternative_name": "Norwich Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Norwich_terier_670.jpg/100px-Norwich_terier_670.jpg"
+    },
+    {
+        "name": "Nova Scotia Duck Tolling Retriever",
+        "group": "312",
+        "alternative_name": "Nova Scotia Duck Tolling Retriever",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nova_scotia_duck_tolling_retriever_111.jpg/120px-Nova_scotia_duck_tolling_retriever_111.jpg"
+    },
+    {
+        "name": "Ogar Polski",
+        "group": "52",
+        "alternative_name": "Polish Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/PolishHound-MlChPl-OKSANA-ZOstregoBoru-wl.JoannaZembrzuska_3.JPG/100px-PolishHound-MlChPl-OKSANA-ZOstregoBoru-wl.JoannaZembrzuska_3.JPG"
+    },
+    {
+        "name": "Olde English Bulldogge",
+        "group": "",
+        "alternative_name": "Olde English Bulldogge",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olde_English_Bulldogge_Duke.jpg/100px-Olde_English_Bulldogge_Duke.jpg"
+    },
+    {
+        "name": "Old English Sheepdog",
+        "group": "16",
+        "alternative_name": "Old English sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Old_english_sheepdog_Ch_Bobbyclown%27s_Dare_for_More.jpg/100px-Old_english_sheepdog_Ch_Bobbyclown%27s_Dare_for_More.jpg"
+    },
+    {
+        "name": "Österreichischer Pinscher",
+        "group": "64",
+        "alternative_name": "Austrian Pinscher",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pinczer_austiacki_678.jpg/100px-Pinczer_austiacki_678.jpg"
+    },
+    {
+        "name": "Otterhound",
+        "group": "294",
+        "alternative_name": "Otterhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Otterhund.jpg/100px-Otterhund.jpg"
+    },
+    {
+        "name": "Parson Russell Terrier",
+        "group": "339",
+        "alternative_name": "Parson Russell Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Parson_Russell_Terrier.jpg/100px-Parson_Russell_Terrier.jpg"
+    },
+    {
+        "name": "Pastor Garafiano",
+        "group": "",
+        "alternative_name": "Perro de pastor garafiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ch-Rasti.jpg/120px-Ch-Rasti.jpg"
+    },
+    {
+        "name": "Patterdale Terrier",
+        "group": "",
+        "alternative_name": "Patterdale Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Patterdale.JPG/100px-Patterdale.JPG"
+    },
+    {
+        "name": "Piccolo Levriero Italiano",
+        "group": "200",
+        "alternative_name": "Italian Greyhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Italian_Greyhound_standing_gray.jpg/100px-Italian_Greyhound_standing_gray.jpg"
+    },
+    {
+        "name": "Pekingese",
+        "group": "207",
+        "alternative_name": "Pekingese",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Black_pekinese_tihamer_on_street.jpg/120px-Black_pekinese_tihamer_on_street.jpg"
+    },
+    {
+        "name": "Perro de Agua Español",
+        "group": "336",
+        "alternative_name": "Spanish Water Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Perro_agua.jpg/100px-Perro_agua.jpg"
+    },
+    {
+        "name": "Perro Cimarrón",
+        "group": "353",
+        "alternative_name": "Cimarrón Uruguayo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PERRO_CIMARRON.jpg/100px-PERRO_CIMARRON.jpg"
+    },
+    {
+        "name": "Perro Pastor Vasco",
+        "group": "",
+        "alternative_name": "Basque Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pastor_vasco_m_14months_loby_3018.jpg/100px-Pastor_vasco_m_14months_loby_3018.jpg"
+    },
+    {
+        "name": "Perro sin pelo del Perú",
+        "group": "310",
+        "alternative_name": "Peruvian Hairless Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/PHDStandardStanding_-_Perro_Sin_Pelo_del_Per%C3%BA.jpg/100px-PHDStandardStanding_-_Perro_Sin_Pelo_del_Per%C3%BA.jpg"
+    },
+    {
+        "name": "Petit Basset Griffon Vendéen",
+        "group": "67",
+        "alternative_name": "Petit Basset Griffon Vendéen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Petit_basset_griffon_vendeen.jpg/100px-Petit_basset_griffon_vendeen.jpg"
+    },
+    {
+        "name": "Petit bleu de Gascogne",
+        "group": "31",
+        "alternative_name": "Petit Bleu de Gascogne",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ma%C5%82y_go%C5%84czy_gasko%C5%84ski_Voltaire_des_Hauts_Plateaux_du_Cezalier_Gal233.jpg/100px-Ma%C5%82y_go%C5%84czy_gasko%C5%84ski_Voltaire_des_Hauts_Plateaux_du_Cezalier_Gal233.jpg"
+    },
+    {
+        "name": "Petit chien lion",
+        "group": "233",
+        "alternative_name": "Löwchen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lwi_piesek_65.jpg/100px-Lwi_piesek_65.jpg"
+    },
+    {
+        "name": "Pharaoh Hound",
+        "group": "248",
+        "alternative_name": "Pharaoh Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/100px-Pies_faraona_e34.jpg"
+    },
+    {
+        "name": "Plott Hound",
+        "group": "",
+        "alternative_name": "Plott Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plotthound.jpg/100px-Plotthound.jpg"
+    },
+    {
+        "name": "Plummer Terrier",
+        "group": "",
+        "alternative_name": "Plummer Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PlummerTerrier.jpg/120px-PlummerTerrier.jpg"
+    },
+    {
+        "name": "Podenco andaluz",
+        "group": "",
+        "alternative_name": "Andalusian Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Podenco_chico.jpg/100px-Podenco_chico.jpg"
+    },
+    {
+        "name": "Podenco Canario",
+        "group": "329",
+        "alternative_name": "Podenco Canario",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Podenco_Canario_1.jpg/100px-Podenco_Canario_1.jpg"
+    },
+    {
+        "name": "Podenco Ibicenco",
+        "group": "89",
+        "alternative_name": "Ibizan Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/100px-Podenco_z_ibizy_645.jpg"
+    },
+    {
+        "name": "Podengo Português",
+        "group": "94",
+        "alternative_name": "Portuguese Podengo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Podengo_Portugues.jpg/100px-Podengo_Portugues.jpg"
+    },
+    {
+        "name": "Poitevin",
+        "group": "24",
+        "alternative_name": "Poitevin hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Poitevin-01.jpg/100px-Poitevin-01.jpg"
+    },
+    {
+        "name": "Polski Owczarek Nizinny",
+        "group": "251",
+        "alternative_name": "Polish Lowland Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Oowczarek_polski_nizinny_pl.jpg/120px-Oowczarek_polski_nizinny_pl.jpg"
+    },
+    {
+        "name": "Polski Owczarek Podhalanski",
+        "group": "252",
+        "alternative_name": "Tatra Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polski_Owczarek_Podhalanski.jpg/100px-Polski_Owczarek_Podhalanski.jpg"
+    },
+    {
+        "name": "Porcelaine",
+        "group": "30",
+        "alternative_name": "Porcelaine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Porcelaine.jpg/100px-Porcelaine.jpg"
+    },
+    {
+        "name": "Perdigueiro Português",
+        "group": "187",
+        "alternative_name": "Portuguese Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wy%C5%BCe%C5%82_portugalski_123.jpg/100px-Wy%C5%BCe%C5%82_portugalski_123.jpg"
+    },
+    {
+        "name": "Pražský krysařík",
+        "group": "363",
+        "alternative_name": "Pražský Krysařík",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Prazsky_krysarik_1.jpg/100px-Prazsky_krysarik_1.jpg"
+    },
+    {
+        "name": "Pudelpointer",
+        "group": "216",
+        "alternative_name": "Pudelpointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pudelpointer_on_point.jpg/100px-Pudelpointer_on_point.jpg"
+    },
+    {
+        "name": "Pug",
+        "group": "253",
+        "alternative_name": "Pug",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/100px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg"
+    },
+    {
+        "name": "Puli",
+        "group": "55",
+        "alternative_name": "Puli",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Puli_600.jpg/100px-Puli_600.jpg"
+    },
+    {
+        "name": "Pulin",
+        "group": "",
+        "alternative_name": "Pulin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pulin_001%2C_Tre%C5%A1njavac.jpg/100px-Pulin_001%2C_Tre%C5%A1njavac.jpg"
+    },
+    {
+        "name": "Pumi",
+        "group": "56",
+        "alternative_name": "Pumi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hungarianpumi.JPG/100px-Hungarianpumi.JPG"
+    },
+    {
+        "name": "Rampur Hound",
+        "group": "",
+        "alternative_name": "Rampur Greyhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rampurgreyhound.jpg/120px-Rampurgreyhound.jpg"
+    },
+    {
+        "name": "Rat Terrier",
+        "group": "",
+        "alternative_name": "Rat Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rat_Terrier_Ruby.jpg/100px-Rat_Terrier_Ruby.jpg"
+    },
+    {
+        "name": "Rafeiro do Alentejo",
+        "group": "96",
+        "alternative_name": "Rafeiro do Alentejo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rafeiro_do_Alentejo.jpg/100px-Rafeiro_do_Alentejo.jpg"
+    },
+    {
+        "name": "Rajapalayam Hound",
+        "group": "",
+        "alternative_name": "Rajapalayam",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rajapalayam_Hound.PNG/100px-Rajapalayam_Hound.PNG"
+    },
+    {
+        "name": "Ratonero Andaluz",
+        "group": "",
+        "alternative_name": "Ratonero Bodeguero Andaluz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ratonero_Bodeguero_Andaluz.jpg/100px-Ratonero_Bodeguero_Andaluz.jpg"
+    },
+    {
+        "name": "Ratonero Mallorquín",
+        "group": "",
+        "alternative_name": "Mallorcan ratter",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ca_rater_mallorqu%C3%AD.JPG/100px-Ca_rater_mallorqu%C3%AD.JPG"
+    },
+    {
+        "name": "Redbone Coonhound",
+        "group": "",
+        "alternative_name": "Redbone Coonhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Redbone_Coonhound.jpg/100px-Redbone_Coonhound.jpg"
+    },
+    {
+        "name": "Rhodesian Ridgeback",
+        "group": "146",
+        "alternative_name": "Rhodesian Ridgeback",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/100px-Rhodesian_ridgeback.jpg"
+    },
+    {
+        "name": "Rottweiler",
+        "group": "147",
+        "alternative_name": "Rottweiler",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rottweiler.jpg/100px-Rottweiler.jpg"
+    },
+    {
+        "name": "Rough coated collie",
+        "group": "156",
+        "alternative_name": "Rough Collie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Collie_087.jpg/100px-Collie_087.jpg"
+    },
+    {
+        "name": "Russian Spaniel",
+        "group": "",
+        "alternative_name": "Russian Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Russpaniel.jpg/100px-Russpaniel.jpg"
+    },
+    {
+        "name": "Russo-European Laika",
+        "group": "304",
+        "alternative_name": "Russo-European Laika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Russo_European_Laika.jpg/100px-Russo_European_Laika.jpg"
+    },
+    {
+        "name": "Russkiy Toy",
+        "group": "352",
+        "alternative_name": "Russkiy Toy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RusskiyToyWelpe9Mon.JPG/100px-RusskiyToyWelpe9Mon.JPG"
+    },
+    {
+        "name": "Saarlooswolfhond",
+        "group": "311",
+        "alternative_name": "Saarloos wolfdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bow_bow.jpg/100px-Bow_bow.jpg"
+    },
+    {
+        "name": "Samoiedskaïa Sabaka",
+        "group": "212",
+        "alternative_name": "Samoyed",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Samoyed_600.jpg/100px-Samoyed_600.jpg"
+    },
+    {
+        "name": "Saluki",
+        "group": "269",
+        "alternative_name": "Saluki",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saluki_600.jpg/100px-Saluki_600.jpg"
+    },
+    {
+        "name": "Sarplaninac",
+        "group": "41",
+        "alternative_name": "Yugoslavian Shepherd Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Szarplaninac_t5645.jpg/100px-Szarplaninac_t5645.jpg"
+    },
+    {
+        "name": "Schapendoes",
+        "group": "313",
+        "alternative_name": "Schapendoes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Schapendoes.jpg/100px-Schapendoes.jpg"
+    },
+    {
+        "name": "Schiller Hound",
+        "group": "131",
+        "alternative_name": "Schillerstövare",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Go%C5%84czy_schillera_g%C5%82owa_j87.jpg/100px-Go%C5%84czy_schillera_g%C5%82owa_j87.jpg"
+    },
+    {
+        "name": "Schipperke",
+        "group": "83",
+        "alternative_name": "Schipperke",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schipperke0001.jpg/100px-Schipperke0001.jpg"
+    },
+    {
+        "name": "Sealyham Terrier",
+        "group": "74",
+        "alternative_name": "Sealyham Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sealyham_terrier_230809.JPG/100px-Sealyham_terrier_230809.JPG"
+    },
+    {
+        "name": "Shetland Sheepdog",
+        "group": "88",
+        "alternative_name": "Shetland Sheepdog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ShetlandShpdogBlue2_wb.jpg/100px-ShetlandShpdogBlue2_wb.jpg"
+    },
+    {
+        "name": "Scottish Terrier",
+        "group": "73",
+        "alternative_name": "Scottish Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ScottishTerrier.jpg/100px-ScottishTerrier.jpg"
+    },
+    {
+        "name": "Schnauzer",
+        "group": "181 and 182 and 183",
+        "alternative_name": "Schnauzer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sznaucer_olbrzym_pieprz_i_s%C3%B3l.jpg/100px-Sznaucer_olbrzym_pieprz_i_s%C3%B3l.jpg"
+    },
+    {
+        "name": "Segugio italiano",
+        "group": "198 and 337",
+        "alternative_name": "Segugio Italiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Segugioitalianopelorasofulvo.JPG/100px-Segugioitalianopelorasofulvo.JPG"
+    },
+    {
+        "name": "Segugio maremmano",
+        "group": "361",
+        "alternative_name": "Segugio Maremmano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Segugio_Maremmano.jpg/100px-Segugio_Maremmano.jpg"
+    },
+    {
+        "name": "Shar-Pei",
+        "group": "309",
+        "alternative_name": "Shar Pei",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alaine_the_Shar-Pei.jpg/120px-Alaine_the_Shar-Pei.jpg"
+    },
+    {
+        "name": "Shiba Inu",
+        "group": "257",
+        "alternative_name": "Shiba Inu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Shiba_czarna.jpg/100px-Shiba_czarna.jpg"
+    },
+    {
+        "name": "Shih-Poo",
+        "group": "",
+        "alternative_name": "Shih-poo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Shih_Poo_Barton_2.jpg/100px-Shih_Poo_Barton_2.jpg"
+    },
+    {
+        "name": "Shih-Tzu",
+        "group": "208",
+        "alternative_name": "Shih Tzu",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Shih-Tzu.JPG/100px-Shih-Tzu.JPG"
+    },
+    {
+        "name": "Shikoku",
+        "group": "319",
+        "alternative_name": "Shikoku Ken",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Shikoku_dog.jpg/100px-Shikoku_dog.jpg"
+    },
+    {
+        "name": "Shiloh shepherd",
+        "group": "",
+        "alternative_name": "Shiloh Shepherd",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SirHarley_of_Shenandoah_Kennel.JPG/100px-SirHarley_of_Shenandoah_Kennel.JPG"
+    },
+    {
+        "name": "Siberian Husky",
+        "group": "270",
+        "alternative_name": "Siberian Husky",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Siberian_husky2.jpg/100px-Siberian_husky2.jpg"
+    },
+    {
+        "name": "Silken Windhound",
+        "group": "",
+        "alternative_name": "Silken Windhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silken_Windhound_Nobble_Stack_F.jpg/100px-Silken_Windhound_Nobble_Stack_F.jpg"
+    },
+    {
+        "name": "Skye Terrier",
+        "group": "75",
+        "alternative_name": "Skye Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Skye_terrier_800.jpg/100px-Skye_terrier_800.jpg"
+    },
+    {
+        "name": "Slovenský kopov",
+        "group": "244",
+        "alternative_name": "Slovenský kopov",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/MVP_Nitra_2004_%288%29.jpg/100px-MVP_Nitra_2004_%288%29.jpg"
+    },
+    {
+        "name": "Slovenský hrubosrstý stavač",
+        "group": "320",
+        "alternative_name": "Slovakian Rough-haired Pointer",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bella_z_Milhostovskych_poli_2.jpg/120px-Bella_z_Milhostovskych_poli_2.jpg"
+    },
+    {
+        "name": "Slovensky Cuvac",
+        "group": "142",
+        "alternative_name": "Slovak Cuvac",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cuvac_1.jpg/100px-Cuvac_1.jpg"
+    },
+    {
+        "name": "Spinone Italiano",
+        "group": "165",
+        "alternative_name": "Spinone Italiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spinone_italiano_Daisy.JPG/100px-Spinone_italiano_Daisy.JPG"
+    },
+    {
+        "name": "Sloughi",
+        "group": "188",
+        "alternative_name": "Sloughi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sloughi.jpg/120px-Sloughi.jpg"
+    },
+    {
+        "name": "Smaland-Stövare",
+        "group": "129",
+        "alternative_name": "Smaland Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Smaland-St%C3%B6vare.jpg/100px-Smaland-St%C3%B6vare.jpg"
+    },
+    {
+        "name": "Smooth coated collie",
+        "group": "296",
+        "alternative_name": "Smooth Collie",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Smooth_Collie_600.jpg/100px-Smooth_Collie_600.jpg"
+    },
+    {
+        "name": "Srpski Gonic",
+        "group": "150",
+        "alternative_name": "Serbian Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Serbian_Hound.JPG/100px-Serbian_Hound.JPG"
+    },
+    {
+        "name": "Srpski Trobojni Gonic",
+        "group": "229",
+        "alternative_name": "Serbian Tricolour Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Srpski_Trobojni_Gonic.gif/100px-Srpski_Trobojni_Gonic.gif"
+    },
+    {
+        "name": "Stabyhoun",
+        "group": "222",
+        "alternative_name": "Stabijhoun",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabyhoun.jpg/100px-Stabyhoun.jpg"
+    },
+    {
+        "name": "Staffordshire Bull Terrier",
+        "group": "76",
+        "alternative_name": "Staffordshire Bull Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Staffordshire_Bull_Terrier_600.jpg/120px-Staffordshire_Bull_Terrier_600.jpg"
+    },
+    {
+        "name": "St. Bernard dog",
+        "group": "61",
+        "alternative_name": "St. Bernard",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ClemensVomWingert.jpg/120px-ClemensVomWingert.jpg"
+    },
+    {
+        "name": "Steirische Rauhhaarbracke",
+        "group": "62",
+        "alternative_name": "Styrian Coarse-haired Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Steirische_Rauhhaarbracke.jpg/120px-Steirische_Rauhhaarbracke.jpg"
+    },
+    {
+        "name": "Suomenajokoira",
+        "group": "51",
+        "alternative_name": "Finnish Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nuori-suomenajokoira.jpg/100px-Nuori-suomenajokoira.jpg"
+    },
+    {
+        "name": "Suomenlapinkoira",
+        "group": "189",
+        "alternative_name": "Finnish Lapphund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fi%C5%84ski_lapphund_768.jpg/100px-Fi%C5%84ski_lapphund_768.jpg"
+    },
+    {
+        "name": "Suomenpystykorva",
+        "group": "49",
+        "alternative_name": "Finnish Spitz",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/100px-Finnish_Spitz_600.jpg"
+    },
+    {
+        "name": "Sussex Spaniel",
+        "group": "127",
+        "alternative_name": "Sussex Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sussex_spaniel_t43.jpg/100px-Sussex_spaniel_t43.jpg"
+    },
+    {
+        "name": "Svensk Lapphund",
+        "group": "135",
+        "alternative_name": "Swedish Lapphund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Svensk_lapphund.JPG/100px-Svensk_lapphund.JPG"
+    },
+    {
+        "name": "Schweizerischer Niederlaufhund",
+        "group": "60",
+        "alternative_name": "Schweizerischer Niederlaufhund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/08115491_Schwyzer_Niederlaufhund.jpg/100px-08115491_Schwyzer_Niederlaufhund.jpg"
+    },
+    {
+        "name": "Schweizer Laufhund",
+        "group": "59",
+        "alternative_name": "Schweizer Laufhund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vycvik_Stopy_%283%29.JPG/100px-Vycvik_Stopy_%283%29.JPG"
+    },
+    {
+        "name": "Taigan",
+        "group": "",
+        "alternative_name": "Taigan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Taigan.jpg/100px-Taigan.jpg"
+    },
+    {
+        "name": "Taiwan Dog",
+        "group": "348",
+        "alternative_name": "Formosan Mountain Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Formosan_nina.jpg/100px-Formosan_nina.jpg"
+    },
+    {
+        "name": "Tamaskan",
+        "group": "",
+        "alternative_name": "Tamaskan Dog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tamaskan.jpg/100px-Tamaskan.jpg"
+    },
+    {
+        "name": "Tchiorny Terrier",
+        "group": "327",
+        "alternative_name": "Black Russian Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Czarny_terier_rosyjski_64.jpg/100px-Czarny_terier_rosyjski_64.jpg"
+    },
+    {
+        "name": "Terrier Brasileiro",
+        "group": "341",
+        "alternative_name": "Brazilian Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Brazilian_terrier.JPG/100px-Brazilian_terrier.JPG"
+    },
+    {
+        "name": "Tesem",
+        "group": "",
+        "alternative_name": "Tesem",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesem.jpg/120px-Tesem.jpg"
+    },
+    {
+        "name": "Tibetan Spaniel",
+        "group": "231",
+        "alternative_name": "Tibetan Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tibetansk_spaniel.jpg/100px-Tibetansk_spaniel.jpg"
+    },
+    {
+        "name": "Tornjak",
+        "group": "355",
+        "alternative_name": "Tornjak",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bosniantornjak.jpg/100px-Bosniantornjak.jpg"
+    },
+    {
+        "name": "Tosa inu",
+        "group": "260",
+        "alternative_name": "Tosa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tosa_inu_7834.jpg/120px-Tosa_inu_7834.jpg"
+    },
+    {
+        "name": "Toy Manchester Terrier",
+        "group": "",
+        "alternative_name": "Toy Manchester Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Toy-manchester-terrier-weave.png/100px-Toy-manchester-terrier-weave.png"
+    },
+    {
+        "name": "Treeing Walker Coonhound",
+        "group": "",
+        "alternative_name": "Treeing Walker Coonhound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Treeing_Walker_Coonhound.jpg/100px-Treeing_Walker_Coonhound.jpg"
+    },
+    {
+        "name": "Thai-Ridgeback",
+        "group": "338",
+        "alternative_name": "Thai Ridgeback",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Thai-Ridgeback.jpg/100px-Thai-Ridgeback.jpg"
+    },
+    {
+        "name": "Tibetan terrier",
+        "group": "209",
+        "alternative_name": "Tibetan Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/DHOKI_APSO.jpg/100px-DHOKI_APSO.jpg"
+    },
+    {
+        "name": "Tiroler Bracke",
+        "group": "68",
+        "alternative_name": "Tyrolean Hound",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tiroler_Bracke_detail.jpg/100px-Tiroler_Bracke_detail.jpg"
+    },
+    {
+        "name": "Västgötaspets",
+        "group": "14",
+        "alternative_name": "Swedish Vallhund",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/SwedishVallhundAgility_wb.jpg/100px-SwedishVallhundAgility_wb.jpg"
+    },
+    {
+        "name": "Volpino Italiano",
+        "group": "195",
+        "alternative_name": "Volpino Italiano",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Volpino04.jpg/100px-Volpino04.jpg"
+    },
+    {
+        "name": "Vostotchno-Sibirskaïa Laïka",
+        "group": "305",
+        "alternative_name": "East Siberian Laika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/East_Siberian_Laika_03.jpg/100px-East_Siberian_Laika_03.jpg"
+    },
+    {
+        "name": "Waeller",
+        "group": "",
+        "alternative_name": "Waeller",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Waeller1.jpg/100px-Waeller1.jpg"
+    },
+    {
+        "name": "Weimaraner",
+        "group": "99",
+        "alternative_name": "Weimaraner",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Weimaraner_wb.jpg/100px-Weimaraner_wb.jpg"
+    },
+    {
+        "name": "Welsh Corgi Cardigan",
+        "group": "38",
+        "alternative_name": "Cardigan Welsh Corgi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NordJW-06_Mudpaws_Duke_Silver.jpg/100px-NordJW-06_Mudpaws_Duke_Silver.jpg"
+    },
+    {
+        "name": "Welsh Corgi Pembroke",
+        "group": "39",
+        "alternative_name": "Pembroke Welsh Corgi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pembroke_Welsh_Corgi_600.jpg/100px-Pembroke_Welsh_Corgi_600.jpg"
+    },
+    {
+        "name": "Welsh Springer Spaniel",
+        "group": "126",
+        "alternative_name": "Welsh Springer Spaniel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/120px-Welsh_Springer_Spaniel_1.jpg"
+    },
+    {
+        "name": "Welsh Terrier",
+        "group": "78",
+        "alternative_name": "Welsh Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Welshterrier.jpg/100px-Welshterrier.jpg"
+    },
+    {
+        "name": "West Highland White Terrier",
+        "group": "85",
+        "alternative_name": "West Highland White Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/West_highland_white_terrier_454.jpg/100px-West_highland_white_terrier_454.jpg"
+    },
+    {
+        "name": "Westfalenterrier",
+        "group": "",
+        "alternative_name": "Westfal Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Westfalenterrier.jpg/100px-Westfalenterrier.jpg"
+    },
+    {
+        "name": "Westfälische Dachsbracke",
+        "group": "100",
+        "alternative_name": "Westphalian Dachsbracke",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Westf%C3%A4lische_Dachsbracke.jpg/120px-Westf%C3%A4lische_Dachsbracke.jpg"
+    },
+    {
+        "name": "Wetterhond",
+        "group": "221",
+        "alternative_name": "Wetterhoun",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fryzyjski_pies_wodny_u68.jpg/100px-Fryzyjski_pies_wodny_u68.jpg"
+    },
+    {
+        "name": "Whippet",
+        "group": "162",
+        "alternative_name": "Whippet",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhippetWhiteSaddled_wb.jpg/120px-WhippetWhiteSaddled_wb.jpg"
+    },
+    {
+        "name": "White English Bulldog",
+        "group": "",
+        "alternative_name": "White English Bulldog",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hedden%27s_Buddy_Roe.jpg/100px-Hedden%27s_Buddy_Roe.jpg"
+    },
+    {
+        "name": "Xoloitzquintle",
+        "group": "234",
+        "alternative_name": "Xoloitzcuintle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mexico.Xoloitzcuintle.01.jpg/100px-Mexico.Xoloitzcuintle.01.jpg"
+    },
+    {
+        "name": "Yakutian Laika",
+        "group": "365",
+        "alternative_name": "Yakutian Laika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yakutian_Laikas_Gorbi_and_Damka.jpg/100px-Yakutian_Laikas_Gorbi_and_Damka.jpg"
+    },
+    {
+        "name": "Yorkshire terrier",
+        "group": "86",
+        "alternative_name": "Yorkshire Terrier",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yorkshire_Terrier_WA_Mozart_Dolce_Sinfonia.jpg/100px-Yorkshire_Terrier_WA_Mozart_Dolce_Sinfonia.jpg"
+    },
+    {
+        "name": "Zapadno-Sibirskaïa Laïka",
+        "group": "306",
+        "alternative_name": "West Siberian Laika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/West_Siberian_Laika.jpg/100px-West_Siberian_Laika.jpg"
+    },
+    {
+        "name": "Zerdava",
+        "group": "",
+        "alternative_name": "Zerdava",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zerdava_dog.jpg/100px-Zerdava_dog.jpg"
+    }
+]
